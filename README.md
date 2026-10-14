@@ -53,7 +53,7 @@ A evolução tecnológica levantou debates extremos sobre o futuro. Por um lado,
 
 ## 📂 Materiais Gerados
 
-Na pasta `/materiais` deste repositório encontram-se as peças consolidadas pelo recurso "Guia de Estudos":
-* **Podcast Analítico:** Um profundo mergulho em áudio na dicotomia entre as funcionalidades úteis do cotidiano e as implicações filosóficas do avanço não regulamentado da IA.
-* **Apresentação Visual:** Slides dividindo os eixos focais do conhecimento: A Revolução nas Farmácias, Regras na Saúde Mental, A Engenharia Por Trás, O Toque Humano Essencial e Riscos Globais.
-* **Mapa Mental:** A organização gráfica completa da base de dados, disponível no documento "NotebookLM Mind Map.jpg", com tópicos como "Uso de Medicamentos" e "Incidentes e Comportamentos Autônomos".
+Os materiais gerados ficaram muito extensos para os limites do GitHub. Você pode acessá-los diretamente nos links abaixo:
+- 🎧 [Podcast: A ilusão de controle sobre a IA (Áudio)](https://drive.google.com/drive/folders/16_X-96V2W1EuDBW0Pcl4_7vRxYaV79es?usp=drive_link)
+- 🎬 [Vídeo: IA na Saúde e Geopolítica](https://drive.google.com/drive/folders/16_X-96V2W1EuDBW0Pcl4_7vRxYaV79es?usp=drive_link)
+- 🗺️ Mapa Mental (Disponível na pasta `/materiais`)
